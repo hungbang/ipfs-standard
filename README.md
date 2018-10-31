@@ -1,4 +1,8 @@
 # ipfs-standard
+## BP 
+### Community
+
+1. Waffle IO: [Waffle IO IPFS](https://waffle.io/ipfs/js-ipfs)
 
 ## How to add and get files with IPFS 
 
